@@ -1,2 +1,3 @@
 2/LaBSE-ru-turbo-1.0.0-torch_script.zip filter=lfs diff=lfs merge=lfs -text
 3/opensearch-neural-sparse-encoding-multilingual-v1-1.0.0-torch_script.zip filter=lfs diff=lfs merge=lfs -text
+4/4.zip filter=lfs diff=lfs merge=lfs -text
